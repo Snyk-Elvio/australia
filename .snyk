@@ -3,4 +3,5 @@ version: v1.25.0
 ---
 exclude:
     code:
-		 	- parse.js 
+        - **/parse.js
+        - tools/**
