@@ -2,6 +2,6 @@
 version: v1.25.0
 ---
 exclude:
-    code:
+    global:
         - **/parse.js
         - tools/**
